@@ -4,7 +4,7 @@
     "img": "https://github.com/ThakurSahab0/travel_json/blob/main/wallpaper1.jpg?raw=true",
    "description": "The main Valley of Kashmir is a low-fertile area surrounded by mountains and contains many rivers. People like it for its natural beauty and simple lifestyle.",
    "location":"J & K , India",
-   "stars": 4.5,
+   "stars": 4,
    "people": 3,
    "price":21000
 },
@@ -14,7 +14,7 @@
     "img": "https://github.com/ThakurSahab0/travel_json/blob/main/wallpaper2.jpg?raw=true",
    "description": "It is known as the pilgrimage town and regarded as one of the holiest places for Hindus. Hindu sages and saints have visited Rishikesh since ancient times to meditate in search of higher knowledge.",
    "location":"Uttrakhand,  India",
-   "stars": 4.5,
+   "stars": 4,
    "people": 3,
    "price": 4000
 },{
@@ -23,7 +23,7 @@
     "img": "https://raw.githubusercontent.com/ThakurSahab0/travel_json/main/wallpaper3.jpg",
    "description": "Goa is famed for its sunny beaches.",
    "location":"Goa India",
-   "stars": 4.3,
+   "stars": 4,
    "people": 3,
    "price": 10000
 },{
@@ -32,7 +32,7 @@
     "img": "https://raw.githubusercontent.com/ThakurSahab0/travel_json/main/wallpaper4.jpg",
    "description": "Mussoorie, also known as Queen of the Hills, is among the most popular hill stations of the country. A Britisher, Captain Frederick Young, accompanied by an official named FJ Shore, had climbed up the hill from the Doon valley in 1827 and found this ridge offering great views and a salubrious climate",
    "location":"Uttrakhand India",
-   "stars": 4.2,
+   "stars": 4,
    "people": 3,
    "price": 11000
 },{
@@ -41,7 +41,7 @@
     "img": "https://raw.githubusercontent.com/ThakurSahab0/travel_json/main/wallpaper5.png",
    "description": "A gift of the Himalayas to the world, Manali is a beautiful township nestled in the picturesque Beas River valley. It is a rustic enclave known for its cool climate and snow-capped mountains, offering respite to tourists escaping scorching heat of the plains",
    "location":"Himachal Pradesh, India",
-   "stars": 4.6,
+   "stars": 4,
    "people": 3,
    "price": 12000
 },{
@@ -50,7 +50,7 @@
     "img": "https://raw.githubusercontent.com/ThakurSahab0/travel_json/main/wallpaper6.jpg",
    "description": "Darjeeling is actually a widespread district although the popular Darjeeling hill town is the nucleus of the place.The queen of the hills is a Himalayan city in the Indian state of West Bengal",
    "location":"Assam India",
-   "stars": 4.0,
+   "stars": 4,
    "people": 3,
    "price": 8000
 }]
