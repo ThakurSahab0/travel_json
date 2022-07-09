@@ -2,9 +2,9 @@
     "id": "1",
     "name" : "Kashmir",
     "img": "https://github.com/ThakurSahab0/travel_json/blob/main/wallpaper1.jpg?raw=true",
-   "description": "  ",
+   "description": "The main "Valley of Kashmir" is a low-fertile area surrounded by mountains and contains many rivers. People like it for its natural beauty and simple lifestyle. The region is part of a border dispute between India and Pakistan.",
    "location":"J & K , India",
-   "stars": 4,
+   "stars": 4.5,
    "people": 3,
    "price":21000
 },
@@ -12,45 +12,45 @@
     "id": "2",
     "name" : "Rishikesh",
     "img": "https://github.com/ThakurSahab0/travel_json/blob/main/wallpaper2.jpg?raw=true",
-   "description": "  ",
+   "description": "It is known as the pilgrimage town and regarded as one of the holiest places for Hindus. Hindu sages and saints have visited Rishikesh since ancient times to meditate in search of higher knowledge.",
    "location":"Uttrakhand,  India",
-   "stars": 4,
+   "stars": 4.5,
    "people": 3,
    "price": 4000
 },{
     "id": "3",
     "name" : "Goa",
     "img": "https://raw.githubusercontent.com/ThakurSahab0/travel_json/main/wallpaper3.jpg",
-   "description": "  ",
+   "description": "Goa is famed for its sunny beaches. The name Goa came to European languages brought by the Portuguese colonisers, but its precise origin is unclear. The Indian epic Mahabharata refers to the area now known as Goa, as 'Goparashtra' or 'Govarashtra"' which means a nation of cowherds",
    "location":"Goa India",
-   "stars": 4,
+   "stars": 4.3,
    "people": 3,
-   "price": 4000
+   "price": 10000
 },{
     "id": "4",
-    "name" : "Mussie",
+    "name" : "Mussoorie",
     "img": "https://raw.githubusercontent.com/ThakurSahab0/travel_json/main/wallpaper4.jpg",
-   "description": "  ",
+   "description": "Mussoorie, also known as Queen of the Hills, is among the most popular hill stations of the country. A Britisher, Captain Frederick Young, accompanied by an official named FJ Shore, had climbed up the hill from the Doon valley in 1827 and found this ridge offering great views and a salubrious climate",
    "location":"Uttrakhand India",
-   "stars": 4,
+   "stars": 4.2,
    "people": 3,
-   "price": 4000
+   "price": 11000
 },{
     "id": "5",
     "name" : "Manali",
     "img": "https://raw.githubusercontent.com/ThakurSahab0/travel_json/main/wallpaper5.png",
-   "description": "  ",
+   "description": "A gift of the Himalayas to the world, Manali is a beautiful township nestled in the picturesque Beas River valley. It is a rustic enclave known for its cool climate and snow-capped mountains, offering respite to tourists escaping scorching heat of the plains",
    "location":"Himachal Pradesh, India",
-   "stars": 4,
+   "stars": 4.6,
    "people": 3,
-   "price": 4000
+   "price": 12000
 },{
     "id": "6",
     "name" : "Darjling",
     "img": "https://raw.githubusercontent.com/ThakurSahab0/travel_json/main/wallpaper6.jpg",
-   "description": "  ",
+   "description": "Darjeeling is actually a widespread district although the popular Darjeeling hill town is the nucleus of the place.The queen of the hills is a Himalayan city in the Indian state of West Bengal",
    "location":"Assam India",
-   "stars": 4,
+   "stars": 4.0,
    "people": 3,
-   "price": 4000
+   "price": 8000
 }]
