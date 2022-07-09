@@ -3,7 +3,7 @@
     "name" : "Kashmir",
     "img": "https://github.com/ThakurSahab0/travel_json/blob/main/wallpaper1.jpg?raw=true",
    "description": "The main Valley of Kashmir is a low-fertile area surrounded by mountains and contains many rivers. People like it for its natural beauty and simple lifestyle.",
-   "location":"J & K , India",
+   "location":"J & K, India",
    "stars": 4,
    "people": 3,
    "price":21000
@@ -22,7 +22,7 @@
     "name" : "Goa",
     "img": "https://raw.githubusercontent.com/ThakurSahab0/travel_json/main/wallpaper3.jpg",
    "description": "Goa is famed for its sunny beaches.",
-   "location":"Goa India",
+   "location":"Goa, India",
    "stars": 4,
    "people": 3,
    "price": 10000
@@ -31,7 +31,7 @@
     "name" : "Mussoorie",
     "img": "https://raw.githubusercontent.com/ThakurSahab0/travel_json/main/wallpaper4.jpg",
    "description": "Mussoorie, also known as Queen of the Hills, is among the most popular hill stations of the country. A Britisher, Captain Frederick Young, accompanied by an official named FJ Shore, had climbed up the hill from the Doon valley in 1827 and found this ridge offering great views and a salubrious climate",
-   "location":"Uttrakhand India",
+   "location":"Uttrakhand, India",
    "stars": 4,
    "people": 3,
    "price": 11000
@@ -49,7 +49,7 @@
     "name" : "Darjling",
     "img": "https://raw.githubusercontent.com/ThakurSahab0/travel_json/main/wallpaper6.jpg",
    "description": "Darjeeling is actually a widespread district although the popular Darjeeling hill town is the nucleus of the place.The queen of the hills is a Himalayan city in the Indian state of West Bengal",
-   "location":"Assam India",
+   "location":"Assam, India",
    "stars": 4,
    "people": 3,
    "price": 8000
