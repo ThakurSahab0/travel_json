@@ -1,0 +1,56 @@
+{
+    "id": "1",
+    "name" : "Kashmir",
+    "img": "https://github.com/ThakurSahab0/travel_json/blob/main/wallpaper1.jpg?raw=true",
+   "description": "  ",
+   "location":"J & K , India",
+   "stars": 4,
+   "people": 3,
+   "price":21000
+}
+{
+    "id": "2",
+    "name" : "Rishikesh",
+    "img": "https://github.com/ThakurSahab0/travel_json/blob/main/wallpaper2.jpg?raw=true",
+   "description": "  ",
+   "location":"Uttrakhand,  India",
+   "stars": 4,
+   "people": 3,
+   "price": 4000
+}{
+    "id": "3",
+    "name" : "Goa",
+    "img": "https://raw.githubusercontent.com/ThakurSahab0/travel_json/main/wallpaper3.jpg",
+   "description": "  ",
+   "location":"Goa India",
+   "stars": 4,
+   "people": 3,
+   "price": 4000
+}{
+    "id": "4",
+    "name" : "Mussie",
+    "img": "https://raw.githubusercontent.com/ThakurSahab0/travel_json/main/wallpaper4.jpg",
+   "description": "  ",
+   "location":"Uttrakhand India",
+   "stars": 4,
+   "people": 3,
+   "price": 4000
+}{
+    "id": "5",
+    "name" : "Manali",
+    "img": "https://raw.githubusercontent.com/ThakurSahab0/travel_json/main/wallpaper5.png",
+   "description": "  ",
+   "location":"Himachal Pradesh, India",
+   "stars": 4,
+   "people": 3,
+   "price": 4000
+}{
+    "id": "6",
+    "name" : "Darjling",
+    "img": "https://raw.githubusercontent.com/ThakurSahab0/travel_json/main/wallpaper6.jpg",
+   "description": "  ",
+   "location":"Assam India",
+   "stars": 4,
+   "people": 3,
+   "price": 4000
+}
