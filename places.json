@@ -1,4 +1,4 @@
-{
+[{
     "id": "1",
     "name" : "Kashmir",
     "img": "https://github.com/ThakurSahab0/travel_json/blob/main/wallpaper1.jpg?raw=true",
@@ -7,7 +7,7 @@
    "stars": 4,
    "people": 3,
    "price":21000
-}
+},
 {
     "id": "2",
     "name" : "Rishikesh",
@@ -17,7 +17,7 @@
    "stars": 4,
    "people": 3,
    "price": 4000
-}{
+},{
     "id": "3",
     "name" : "Goa",
     "img": "https://raw.githubusercontent.com/ThakurSahab0/travel_json/main/wallpaper3.jpg",
@@ -26,7 +26,7 @@
    "stars": 4,
    "people": 3,
    "price": 4000
-}{
+},{
     "id": "4",
     "name" : "Mussie",
     "img": "https://raw.githubusercontent.com/ThakurSahab0/travel_json/main/wallpaper4.jpg",
@@ -35,7 +35,7 @@
    "stars": 4,
    "people": 3,
    "price": 4000
-}{
+},{
     "id": "5",
     "name" : "Manali",
     "img": "https://raw.githubusercontent.com/ThakurSahab0/travel_json/main/wallpaper5.png",
@@ -44,7 +44,7 @@
    "stars": 4,
    "people": 3,
    "price": 4000
-}{
+},{
     "id": "6",
     "name" : "Darjling",
     "img": "https://raw.githubusercontent.com/ThakurSahab0/travel_json/main/wallpaper6.jpg",
@@ -53,4 +53,4 @@
    "stars": 4,
    "people": 3,
    "price": 4000
-}
+}]
