@@ -4,7 +4,7 @@
     "img": "https://github.com/ThakurSahab0/travel_json/blob/main/wallpaper1.jpg?raw=true",
    "description": "The main Valley of Kashmir is surrounded by mountains and contains many rivers.",
    "location":"J & K, India",
-   "stars": 4,
+   "stars": 4.0,
    "people": 3,
    "price":21000
 },
@@ -14,7 +14,7 @@
     "img": "https://github.com/ThakurSahab0/travel_json/blob/main/wallpaper2.jpg?raw=true",
    "description": "It is known as the pilgrimage town and regarded as one of the holiest places for Hindus.",
    "location":"Uttrakhand,  India",
-   "stars": 4,
+   "stars": 4.5,
    "people": 3,
    "price": 4000
 },{
