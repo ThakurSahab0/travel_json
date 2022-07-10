@@ -23,7 +23,7 @@
     "img": "https://raw.githubusercontent.com/ThakurSahab0/travel_json/main/wallpaper3.jpg",
    "description": "Goa is one of the most favorite destination among Indian tourists due to its pristine beaches.",
    "location":"Goa, India",
-   "stars": 4,
+   "stars": 4.5,
    "people": 3,
    "price": 10000
 },{
@@ -32,7 +32,7 @@
     "img": "https://raw.githubusercontent.com/ThakurSahab0/travel_json/main/wallpaper4.jpg",
    "description": "Mussoorie, also known as Queen of the Hills, is among the most popular hill stations of the country.",
    "location":"Uttrakhand, India",
-   "stars": 4,
+   "stars": 4.3,
    "people": 3,
    "price": 11000
 },{
@@ -41,7 +41,7 @@
     "img": "https://raw.githubusercontent.com/ThakurSahab0/travel_json/main/wallpaper5.png",
    "description": "A gift of the Himalayas to the world, Manali is a beautiful township nestled in the picturesque Beas River valley.",
    "location":"Himachal Pradesh, India",
-   "stars": 4,
+   "stars": 4.4,
    "people": 3,
    "price": 12000
 },{
@@ -50,7 +50,7 @@
     "img": "https://raw.githubusercontent.com/ThakurSahab0/travel_json/main/wallpaper6.jpg",
    "description": "Darjeeling is actually a widespread district although the popular Darjeeling hill town is the nucleus of the place.",
    "location":"Assam, India",
-   "stars": 4,
+   "stars": 4.1,
    "people": 3,
    "price": 8000
 }]
