@@ -6,7 +6,7 @@
    "location":"J & K, India",
    "stars": 5.0,
    "people": 3,
-   "price":21999
+   "price":19999
 },
 {
     "id": "2",
@@ -25,7 +25,7 @@
    "location":"Goa, India",
    "stars": 4.0,
    "people": 3,
-   "price": 10000
+   "price": 24999
 },{
     "id": "4",
     "name" : "Mussoorie",
@@ -43,7 +43,7 @@
    "location":"Himachal Pradesh, India",
    "stars": 3.0,
    "people": 3,
-   "price": 15999
+   "price": 17999
 },{
     "id": "6",
     "name" : "Darjling",
@@ -52,5 +52,5 @@
    "location":"Assam, India",
    "stars": 3.0,
    "people": 3,
-   "price": 8000
+   "price": 14999
 }]
