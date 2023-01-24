@@ -53,4 +53,13 @@
    "stars": 3.0,
    "people": 3,
    "price": 14999
+},{
+    "id": "7",
+    "name" : "Taj Mahal",
+    "img": "https://raw.githubusercontent.com/ThakurSahab0/travel_json/main/wallpaper7.jpeg",
+   "description": "The Taj Mahal is an Islamic ivory-white marble mausoleum on the right bank of the river Yamuna in the Indian city of Agra",
+   "location":"Agra, India",
+   "stars": 4.0,
+   "people": 5,
+   "price": 999
 }]
